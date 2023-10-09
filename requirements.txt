@@ -1,11 +1,13 @@
+asgiref==3.7.2
 backports.statistics==0.1.0
+blinker==1.6.3
 brotli==1.1.0
 brotlicffi==1.1.0.0
 chardet==5.2.0
+colorama==0.4.6
 cryptography==41.0.4
 Cython==3.0.3
 dl==0.1.0
-Flask==3.0.0
 ipaddr==2.2.0
 keyring==24.2.0
 mock==5.1.0
@@ -13,8 +15,10 @@ mypy_extensions==1.0.0
 numpy==1.26.0
 ordereddict==1.1
 pyOpenSSL==23.2.0
+python-dotenv==1.0.0
 simplejson==3.19.2
 typing_extensions==4.8.0
 urllib3_secure_extra==0.1.0
+watchdog==3.0.0
 wincertstore==0.2.1
 zstandard==0.21.0
